@@ -176,4 +176,4 @@ The Vite dev server starts on `http://localhost:3000` and proxies `/api` request
 | `devops` | Full DevSecOps — Docker, Kubernetes (EKS), Terraform, CI/CD pipeline, security scanning |
 
 ---
-welcome to jerney app by abhi
+welcome to jerney app, by abhigna, checking cicd pipeline flow with dummy commit 
